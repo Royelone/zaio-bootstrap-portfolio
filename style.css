@@ -22,7 +22,7 @@ body {
 }
 
 .banner-wrap {
-  background-image: url(https://github.com/Royelone/zaio-bootstrap-portfolio/blob/main/profile.HEIC);
+  background-image: url(/profile.HEIC);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
